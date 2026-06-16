@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-Hello! I'm 𝐍𝐮𝐫𝐬𝐲𝐚𝐦𝐬𝐢𝐚𝐡 𝐅𝐚𝐣𝐫𝐢𝐚𝐡, but you can call me 𝐈𝐬𝐦𝐢. I am a 6th-semester Informatics Engineering student at Pamulang University with an interest in UI/UX Design and technology. I focus on designing user-friendly interfaces, wireframing, prototyping, and conducting user research to create seamless digital experiences.✨
+Hello! I'm 𝐍𝐮𝐫𝐬𝐲𝐚𝐦𝐬𝐢𝐚𝐡 𝐅𝐚𝐣𝐫𝐢𝐚𝐡, but you can call me 𝐈𝐬𝐦𝐢. I am a 8th-semester Informatics Engineering student at Pamulang University with an interest in UI/UX Design and technology. I focus on designing user-friendly interfaces, wireframing, prototyping, and conducting user research to create seamless digital experiences.✨
 
 
 ## 🌐 Socials:
